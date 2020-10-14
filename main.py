@@ -1,4 +1,4 @@
-print('Таблица умножения')
+print('Multiplication table')
 
 for i in range(1, 10):
     for k in range(2, 10):
